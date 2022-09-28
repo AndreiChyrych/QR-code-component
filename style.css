@@ -2,7 +2,8 @@ body {
   background-color: hsl(212, 45%, 89%);
 }
 .container {
-  display: grid;
+  display: flex;
+  flex-direction: column;
   border: solid 1px white;
   border-radius: 15px;
   background-color: white;
