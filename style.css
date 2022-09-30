@@ -17,8 +17,7 @@ body {
 }
 
 img {
-  weight: 250px;
-  height: 250px;
+  max-width: 85%;
   border-radius: 15px;
 }
 
