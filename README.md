@@ -1,2 +1,3 @@
 # QR-code-component
-test
+
+Props to - https://github.com/GeorisVal
